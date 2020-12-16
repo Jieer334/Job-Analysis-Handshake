@@ -6,27 +6,33 @@ The handshake dataset consolidates Handshake job data from five excel files. The
 
 ## Data Analysis 
 
-##### Job Location:
+#### Job Location:
 Q1: Where are the jobs come from?
 Q2: What is the number of jobs in a city or cities in different countries?
 
-##### Job Type: 
+
+#### Job Type: 
 Q1: What is the number of jobs for each job type? What are the percentages?
 
-##### Employement Type 
+
+#### Employement Type 
 Q1: What is the number of jobs for each employment type? What are the percentages?
 
-##### Salary Type
+
+#### Salary Type
 Q1: What are the salary types and their percentage?
 Q2: What is the number of jobs for each level of salary type within employment type for each job type?
 
-##### Accept OPT/CPT 
+
+#### Accept OPT/CPT 
 Q1: How likely it is to find an employer that will accept OPT/CPT candidates?
 Q2: Where are the employers that accept OPT/CPT candidates in terms of location and industry? How many employers are there?
 
-##### Willing to sponsor candidate 
+
+#### Willing to sponsor candidate 
 Q1: How likely it is to find an employer that is willing to sponsor a candidate?
 Q2: Which employers are willing to accept OPT/CPT candidates and provide sponsorship?
 
-##### Expires 
+
+#### Expires 
 Q1: What is the number of jobs expires in each weekday in different months?
